@@ -277,7 +277,6 @@
 		1EFC5A761B2BD47F00CC11E4 /* SocketUtils.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = SocketUtils.c; sourceTree = "<group>"; };
 		1EFC5A771B2BD47F00CC11E4 /* SocketUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketUtils.h; sourceTree = "<group>"; };
 		A70FF8AC1BD59C7C00DABB71 /* TestIRCServer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestIRCServer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A70FF8AD1BD59C7D00DABB71 /* TestServer copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "TestServer copy-Info.plist"; path = "/Volumes/Luna/Caramel/Xcode/TestServer copy-Info.plist"; sourceTree = "<absolute>"; };
 		A70FF8AE1BD59D1D00DABB71 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A70FF8B41BD6C5FE00DABB71 /* IRCServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IRCServer.swift; sourceTree = "<group>"; };
 		A70FF8B71BD6F26000DABB71 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
@@ -407,7 +406,6 @@
 				1E1607C61B2B4CDD00A602E5 /* Caramel */,
 				1E1607C51B2B4CDD00A602E5 /* Products */,
 				1EFC5A321B2BA82300CC11E4 /* TestServer */,
-				A70FF8AD1BD59C7D00DABB71 /* TestServer copy-Info.plist */,
 				A74412F11BBF447B00908A62 /* uv */,
 			);
 			sourceTree = "<group>";
